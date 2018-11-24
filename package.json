@@ -1,0 +1,19 @@
+{
+  "name": "spotify-analyzer",
+  "version": "0.0.1",
+  "description": "backend for Spotify analysis, before official 2018 in Spotify is out",
+  "main": "index.js",
+  "author": "Jonathan Nicholas",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.6",
+    "passport": "^0.4.0",
+    "passport-spotify": "^1.0.1"
+  }
+}
